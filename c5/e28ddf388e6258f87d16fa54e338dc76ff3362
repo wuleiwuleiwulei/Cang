@@ -1,0 +1,14 @@
+part_0007/data.txt
+  h_ddbb67549260d8 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6+huawei.5",
+  "base_commit_sha": "c5e28ddf388e6258f87d16fa54e338dc76ff3362",
+  "prompts": {},
+  "humans": {
+    "h_ddbb67549260d8": {
+      "author": "w00997677 <wulei43@huawei.com>"
+    }
+  }
+}
